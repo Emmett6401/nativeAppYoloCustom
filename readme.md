@@ -21,8 +21,11 @@
    git clone https://github.com/ultralytics/yolov5.git
    
 7. 다음과 같은 Tree 구조가 만들어지면 오케이
+   
+## 폴더구조는 
 ![폴더구조](./img/tree.PNG)
-9. to run it, use window.py and run
+
+8. 실행은 windowAPP.py
 
 ## 프로그램 실행 결과는 
 ![실행결과](./img/result.PNG)
