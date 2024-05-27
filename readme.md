@@ -21,7 +21,7 @@
    git clone https://github.com/ultralytics/yolov5.git
    
 7. 다음과 같은 Tree 구조가 만들어지면 오케이
-8. ![폴더구조](./img/tree.PNG)
+![폴더구조](./img/tree.PNG)
 9. to run it, use window.py and run
 
 ## 프로그램 실행 결과는 
