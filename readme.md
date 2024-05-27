@@ -16,7 +16,7 @@
    ```
    pip install -r requirements.txt
    ```
-6. yolov5를 클로닝해 오고
+6. yolov5를 클로닝해 오고(REPO에서는 보이지 않지만)
    ```
    git clone https://github.com/ultralytics/yolov5.git
    
