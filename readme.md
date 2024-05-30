@@ -6,7 +6,7 @@
    ```
 3. 새로운 개발환경 만들고
    ```
-   create -n yologui2 python=3.9
+   conda create -n yologui2 python=3.9
    ```
 4. 콘다 Activate 또는 vscode 에서 개발환경 연결해주고
    ```
