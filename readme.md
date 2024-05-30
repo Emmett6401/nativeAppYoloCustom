@@ -19,13 +19,22 @@
 6. yolov5를 클로닝해 오고(REPO에서는 보이지 않지만)
    ```
    git clone https://github.com/ultralytics/yolov5.git
-   
-7. 다음과 같은 Tree 구조가 만들어지면 오케이
+   ```
+7. cmd 에서
+   ```
+   code .
+   ``` 
+  
+8. 다음과 같은 Tree 구조가 만들어지면 오케이
    
 ## 폴더구조는 
 ![폴더구조](./img/tree.PNG)
 
-8. 실행은 windowAPP.py
+9. shift+ctrl+p
+   Select python interpreter에서 가상환경과 연결해주고
+   새 터미널 열기 
+
+10. 실행은 windowAPP.py
 
 ## 프로그램 실행 결과는 
 ![실행결과](./img/result.PNG)
