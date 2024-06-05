@@ -2,7 +2,7 @@
 
 1. 새폴더 만들고 CMD 에서 (또는 vscode 터미널에서) 소스코드를 복사
    ```
-   git clone 해당 레포 주소
+   git clone https://github.com/Emmett6401/nativeAppYoloCustom.git
    ```
 3. 새로운 개발환경 만들고
    ```
